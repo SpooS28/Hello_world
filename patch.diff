@@ -1,0 +1,9 @@
+diff --git a/README.md b/README.md
+index 33e2b42..62a53cc 100644
+--- a/README.md
++++ b/README.md
+@@ -2,3 +2,4 @@
+ Writing extra code directly.
+ Another one line.
+ This is for diff.
++stat option
