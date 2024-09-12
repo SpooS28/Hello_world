@@ -2,4 +2,5 @@
 Writing extra code directly.
 Another one line.
 This is for diff.
-stat option
+stat diff
+
