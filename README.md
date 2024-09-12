@@ -2,5 +2,6 @@
 Writing extra code directly.
 Another one line.
 This is for diff.
-stat diff
+stat diff.
+This is final.
 
